@@ -1,0 +1,4 @@
+#Files I don’t want to track 
+GeomCalk
+draw_shapes.py
+graphics.py
